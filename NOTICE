@@ -2,7 +2,7 @@ TCLab State Estimation
 Copyright (c) Johannes Stockhammer
 
 This product includes work by Johannes Stockhammer.
-Source: https://github.com/josto-me/kalman-filter-state-estimation
+Source: https://github.com/jstockhammer/kalman-filter-state-estimation
 Cite as: Johannes Stockhammer, "State Estimation with Kalman Filter and Moving Horizon Estimation on the Temperature Control Lab", course project report, Otto-von-Guericke University Magdeburg, revised edition, Zenodo (2026), https://doi.org/10.5281/zenodo.22984395
 
 code/Heater_Lab_IO.m contains code adapted from tclab.m of APMonitor/arduino
